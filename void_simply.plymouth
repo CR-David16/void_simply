@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=cereus_simply
+Description=A simplye & dark plymouth theme for Void Linux
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/void_simply
+ScriptFile=/usr/share/plymouth/themes/void_simply/void_simply.script
